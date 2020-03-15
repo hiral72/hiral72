@@ -2,7 +2,7 @@
 Hangman game
 
 
-This is a simple Hangman game using Python programming language.
+This is a simple HANGMAN GAME using Python programming language.
 
 The Hangman program randomly selects a secret word from a list of secret words. The random module will provide this ability, so line 1 in program imports it.
 The Game: Here, a random word (a fruit name) is picked up from our collection and the player gets limited chances to win the game.

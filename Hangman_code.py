@@ -2,7 +2,7 @@
 # Hangman Game 
 import random 
 from collections import Counter 
-  
+ h=int(input("Enter no.")) 
 someWords = '''apple banana mango strawberry  
 orange grape pineapple apricot lemon coconut watermelon 
 cherry papaya berry peach lychee muskmelon'''
