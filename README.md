@@ -1,5 +1,5 @@
 # hiral72
-Hangman game
+***Hangman game***
 
 
 This is a simple HANGMAN GAME using Python programming language.
